@@ -8,6 +8,11 @@
   </tr>
 </table>
 
-</a> <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" style="width: 13em; height: 5em;">
+<div style="display: table; width: 100%; height: 100%; text-align: center;">
+  <div style="display: table-cell; vertical-align: middle;">
+    <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" style="width: 2em; height: 2em;">
+  </div>
+</div>
+
 
 
