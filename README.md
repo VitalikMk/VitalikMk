@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/vitalii_maliukov-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram Badge"> •
   
   
-  <a href="https://instagram.com/_vitalii.maliukov_">
-  <img src="https://img.shields.io/badge/-_vitalii.maliukov_-e4405f?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge">
+  <a href="https://instagram.com/_.vitalii._mk">
+  <img src="https://img.shields.io/badge/-_.vitalii._mk-e4405f?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge">
 </p>
 
